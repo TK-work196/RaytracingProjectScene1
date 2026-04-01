@@ -1,3 +1,5 @@
+# นี่คือ Scene ที่ 1 สำหรับ Final Project
+
 # การตั้งค่า (Configuration Guide)
 ปรับแต่งคุณภาพของภาพผ่านไฟล์ rt_config.py:
 
